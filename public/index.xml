@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:50989/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Nov 2024 16:10:48 +0100</lastBuildDate>
-    <atom:link href="http://localhost:50989/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:50989/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 01 Nov 2024 16:10:48 +0100</pubDate>
-      <guid>http://localhost:50989/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;un-grand-titre&#34;&gt;Un grand titre&lt;/h1&gt;&#xA;&lt;h2 id=&#34;un-titre-un-peu-moins-grand&#34;&gt;Un titre un peu moins grand&lt;/h2&gt;&#xA;&lt;h3 id=&#34;un-titre-encore-moins-grand&#34;&gt;Un titre encore moins grand&lt;/h3&gt;&#xA;&lt;h1 id=&#34;un-grand-titre-1&#34;&gt;Un grand titre&lt;/h1&gt;&#xA;&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;titre de niveau 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;titre de niveau 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;titre-de-niveau-3&#34;&gt;titre de niveau 3&lt;/h3&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;h2 id=&#34;styles-de-texte&#34;&gt;Styles de texte&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;italique&lt;/em&gt;&#xA;&lt;strong&gt;gras&lt;/strong&gt;&#xA;&lt;strong&gt;&lt;em&gt;gras-italique&lt;/em&gt;&lt;/strong&gt;&#xA;&lt;del&gt;barré&lt;/del&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;liens&#34;&gt;Liens&lt;/h2&gt;&#xA;&lt;p&gt;Aidez-vous avec &lt;a href=&#34;https://docs.framasoft.org/fr/grav/&#34;&gt;la documentation de Framasite&lt;/a&gt; !&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.framasoft.org/fr/grav/&#34;&gt;la documentation de Framasite&lt;/a&gt;{#id .class1 .class2}&lt;/p&gt;&#xA;&lt;h2 id=&#34;bouton&#34;&gt;Bouton&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Default&lt;/a&gt;{.btn .btn-default}&#xA;&lt;a href=&#34;#&#34;&gt;Primary&lt;/a&gt;{.btn .btn-primary}&#xA;&lt;a href=&#34;#&#34;&gt;Info&lt;/a&gt;{.btn .btn-info}&#xA;&lt;a href=&#34;#&#34;&gt;Success&lt;/a&gt;{.btn .btn-success}&#xA;&lt;a href=&#34;#&#34;&gt;Warning&lt;/a&gt;{.btn .btn-warning}&#xA;&lt;a href=&#34;#&#34;&gt;Danger&lt;/a&gt;{.btn .btn-danger}&#xA;&lt;a href=&#34;#&#34;&gt;Link&lt;/a&gt;{.btn .btn-link}&lt;/p&gt;</description>
     </item>
   </channel>
